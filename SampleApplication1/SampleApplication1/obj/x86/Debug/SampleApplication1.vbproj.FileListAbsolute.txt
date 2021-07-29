@@ -1,0 +1,15 @@
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\bin\Debug\SampleApplication1.exe
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\bin\Debug\SampleApplication1.pdb
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\bin\Debug\SampleApplication1.xml
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.Form1.resources
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.Resources.resources
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.vbproj.GenerateResource.Cache
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.exe
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.xml
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.pdb
+c:\users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.SplashScreen1.resources
+C:\Users\ojt-8655\Documents\Visual Studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.CSV.resources
+C:\Users\ojt-8655\Documents\Visual Studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.Excel.resources
+C:\Users\ojt-8655\Documents\Visual Studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.vbproj.ResolveComReference.cache
+C:\Users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\SampleApplication1.GenerateReport.resources
+C:\Users\ojt-8655\documents\visual studio 2010\Projects\SampleApplication1\SampleApplication1\obj\x86\Debug\Interop.Scripting.dll
